@@ -1,2 +1,2 @@
 # git_lab_02
-print ("hello")
+print ("hello world")
